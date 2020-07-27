@@ -10,7 +10,7 @@ The environment variables need to be setup in:
 
 `<root>/.env` 
 
-or set them on the OS level whichever is more convenient.
+or set them on the OS level whichever is more convenient. If OS level is chosen please see `<root>/.env` for how variables are setup.
 
 #### Run:
 run: `npm install` from `<root>`
