@@ -8,18 +8,19 @@
 ### Running the app
 The environment variables need to be setup in:
 
-`<root>/.env` 
+`.env` 
 
-or set them on the OS level whichever is more convenient. If OS level is chosen please see `<root>/.env` for how variables are setup.
+or set them on the OS level whichever is more convenient. If OS level is chosen please see `.env` for how variables are setup.
 
 #### Run:
-run: `npm install` from `<root>`
+run: `npm install` from the application root
 
 once thats finished wdio needs to be used from the .bin directory (location of .bin directory may vary depending on environment).
 
-run: `./node_modules/.bin/wdio wdio.conf.js` from `<root>`
+run: `./node_modules/.bin/wdio wdio.conf.js` from application root
 
 If there are any issues please refer to the following link:
+
 https://webdriver.io/docs/gettingstarted.html#setup-your-project
 
 #### Observation:
