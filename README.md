@@ -8,11 +8,11 @@
 ### Running the app
 The environment variables need to be setup in:
 `<root>/.env` 
-or set the them on the OS level whichever is more convenient.
+or set them on the OS level whichever is more convenient.
 
 #### Run:
 run: `npm install` from `<root>`
-wdio needs to be used from the .bin directory (location of .bin directory may vary depending on environmen).
+wdio needs to be used from the .bin directory (location of .bin directory may vary depending on environment).
 run: `./node_modules/.bin/wdio wdio.conf.js` from `<root>`
 
 If there are any issues please refer to the following link:
