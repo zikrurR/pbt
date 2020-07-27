@@ -17,3 +17,9 @@ run: `./node_modules/.bin/wdio wdio.conf.js` from `<root>`
 
 If there are any issues please refer to the following link:
 https://webdriver.io/docs/gettingstarted.html#setup-your-project
+
+#### Observation:
+
+News Page title not consistent with with other page titles, page titles usually have `'PrimaryBid.com | <Information>'`
+
+The news page has: `'PrimaryBid | News'`
